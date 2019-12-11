@@ -1,0 +1,8 @@
+,penalty,solver,accuracy
+1,l2,lbfgs,70.16
+0,l2,newton-cg,70.13
+2,l1,liblinear,70.13
+3,l2,liblinear,70.13
+4,l2,sag,69.91
+5,l1,saga,69.87
+6,l2,saga,69.76
